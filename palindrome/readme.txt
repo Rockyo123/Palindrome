@@ -1,0 +1,1 @@
+C++ class used to find all possible palindromes from an inputted string. For example, "ABABC" will return ["ABCBA", "BACAB"]. 
